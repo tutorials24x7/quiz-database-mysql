@@ -7,4 +7,4 @@ The complete details to design the database for quiz is available at [Guide To D
 ## Database Schema
 The visual database design of the Quiz Database is shown below.
 
-![Quiz Database](https://github.com/tutorials24x7/quiz-database-mysql/blob/master/tutorials24x7-quiz-database-design.png "Quiz Database")
+![Quiz Database](https://raw.githubusercontent.com/tutorials24x7/quiz-database-mysql/master/tutorials24x7-mysql-quiz-database-design.png "Quiz Database")
